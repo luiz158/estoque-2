@@ -1,4 +1,4 @@
-"# estoque"
+"# Estoque"
 
 ##Como rodar o projeto?
 
